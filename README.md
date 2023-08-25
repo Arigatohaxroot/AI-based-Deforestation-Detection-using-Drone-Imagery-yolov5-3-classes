@@ -1,0 +1,1 @@
+# AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes
