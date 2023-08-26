@@ -1,14 +1,9 @@
 # AI-Based Deforestation Detection using Drone Imagery
 
-<div align="center">
-
-
-
-</div>
 
 ## Overview
 
-Welcome to the AI-Based Deforestation Detection project! 🌿🚁
+Welcome to my AI-Based Deforestation Detection project! 🌿🚁
 
 This repository showcases my innovative approach to detecting deforestation using drone-captured imagery. Leveraging advanced AI technologies, I've developed a solution that can identify different landscape features within images, ranging from flourishing forests to areas afflicted by deforestation.
 
@@ -36,20 +31,20 @@ My model relies on YOLOv5, a state-of-the-art object detection framework. After 
 
 <div align="center">
 
-### Green Area with Trees 
+### Green Area with Trees
 ![Green Area with Trees](https://i.imgur.com/xv3kVJO.jpg)
 
-### Deforested Area 
+### Deforested Area
 ![Deforested Area](https://i.imgur.com/e6qtFZc.jpg)
 
-### Deforestation Detection in Action (GIF)
-![Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/raw/main/assets/your-deforestation-gif.gif)
+### Deforestation Detection in Action
+![Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/blob/dd6657751b5c2e8a90ae424aee878b2dd51839ca/ezgif.com-optimize.gif)
 
 ### Another Deforestation Detection GIF
-![Another Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/raw/main/assets/another-deforestation-gif.gif)
+![Another Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/blob/5b7a29dcdff53594672030845c625a5027e3d684/ezgif.com-optimize%20(1).gif)
 
-### Yet Another Deforestation Detection GIF
-![Yet Another Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/raw/main/assets/yet-another-deforestation-gif.gif)
+### Green area with trees 
+![Yet Another Deforestation Detection GIF](https://github.com/Arigatohaxroot/AI-based-Deforestation-Detection-using-Drone-Imagery-yolov5-3-classes/blob/a7487cce47be7db925ab7fd47a8851eb8524a679/ezgif.com-resize.gif)
 
 </div>
 
@@ -78,9 +73,5 @@ The potential for expansion and impact is immense. Here are some captivating ide
 ## Acknowledgments
 
 I extend my gratitude to the open-source community, the contributors, and the researchers who've made AI solutions like this possible.
-
-## License
-
-This project is open-source under the MIT License.
 
 Join me in my mission to make a positive environmental impact. 🌍✨
